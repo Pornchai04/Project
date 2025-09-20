@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Project </title>
+</head>
+    <meta charset="UTF-8">
+    <title>Smart Room reservation system</title>
+<style>
+body {
+    
+    font-size: 2rem;
+    background-color: #cc70f7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+
+    margin: 0;
+            height: 10vh;
+            display: flex;
+            justify-content: center; /* จัดกลางแนวนอน */
+            align-items: center;    /* จัดกลางแนวตั้ง */
+            font-family: sans-serif;
+        }
+
+</style>
+</body>
+    <div>Smart Room reservation system</div>
+    <styl>
+        <input type="text" id="fullname" name="fullname">
+        <input type="text" id="p" name="email">
+       <button type="submit">กด</button>
+
+    </style>
+</html>
